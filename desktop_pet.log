@@ -1,0 +1,9 @@
+2025-06-29 12:57:27,772 - DesktopPet - WARNING - 高DPI支持设置失败，应用可能无法正确缩放
+2025-06-29 12:57:27,772 - DesktopPet - INFO - 优菈桌面宠物启动中...
+2025-06-29 12:57:27,774 - DesktopPet - DEBUG - 成功加载GIF资源: image (4).gif
+2025-06-29 12:57:27,774 - DesktopPet - DEBUG - 成功加载GIF资源: image (3).gif
+2025-06-29 12:57:27,774 - DesktopPet - DEBUG - 成功加载GIF资源: image (5).gif
+2025-06-29 12:57:27,774 - DesktopPet - ERROR - 找不到GIF资源: index=0
+2025-06-29 12:57:29,770 - DesktopPet - DEBUG - 尝试显示语录: time_morning, force=True
+2025-06-29 12:57:30,626 - DesktopPet - DEBUG - 显示语录: 早上好……该起床了，日出前两个小时，值岗一夜的哨兵最为疲惫，是我们活动的绝佳时间！
+2025-06-29 12:57:30,626 - DesktopPet - ERROR - 错误: 无法计算气泡位置
